@@ -77,13 +77,19 @@ header-includes:
 
 
 ## 1. Установка ПО
-Скачиваю архив TexLive с оф. сайта
+Скачиваю архив TexLive с оф. сайта\\
 ![..](image/1.png){#fig:001 width=70%}
 
 Перехожу в папку Downloads и разврхивирую файл
 Перехожу в разархивированную папку /install-tl-20241010
 Запускаю perl script c помощью команды sudo perl ./install-tl --no-interaction
+
 ![..](image/2.png){#fig:001 width=70%}
+
+Добавляю /usr/local/texlive/2022/bin/x86_64-linux в свой PATH для текущей и
+будущих сессий\\
+
+![..](image/3.png){#fig:001 width=70%}
 
 
 
