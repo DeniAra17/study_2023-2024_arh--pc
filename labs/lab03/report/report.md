@@ -104,16 +104,29 @@ header-includes:
 ![..](image/6.png){#fig:001 width=70%}    
 ![..](image/7.png){#fig:001 width=70%} 
 
+Перехожу в папку /report локального репазитория    
+![..](image/8.png){#fig:001 width=70%}     
+  
+Компилирую шаблон с использованием Makefile, вводя команду make   
+![..](image/9.png){#fig:001 width=70%}
+
+Проверяю файлы .pdf и .docx  на работоспособность   
+Удаляю полученные файлы с использованием Makefile, вводя команду make clean   
+![..](image/10.png){#fig:001 width=70%}   
+
+Открываю report.md используя mousepad и начинаю заполнять работу   
+ 
+![..](image/11.png){#fig:001 width=70%}
 
 
 
 
 
-# Выполнение лабораторной работы
 
 
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+
+
 
 # Выводы
 
